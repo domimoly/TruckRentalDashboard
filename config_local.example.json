@@ -1,0 +1,9 @@
+{
+  "o_host": "localhost",
+  "o_port": "1521",
+  "o_serv": "XEPDB1",
+  "o_user": "alumno",
+  "m_host": "cluster0.xxxxx.mongodb.net",
+  "m_user": "tu_usuario_de_atlas",
+  "m_db": "truck_rental_db"
+}

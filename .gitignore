@@ -1,0 +1,11 @@
+# Datos locales de cada integrante (nunca se suben)
+config_local.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
